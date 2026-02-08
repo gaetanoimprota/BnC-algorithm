@@ -8,8 +8,5 @@ For a detailed explanation of the mathematical model, please refer to the techni
 * [Download Technical Report (PDF)](docs/TSP_problem.pdf)
 
 ## Contributors
-* **Gaetano Improta** [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuo-username)
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gaetano-improta]
-  
-* **Salvatore Caputo** [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuo-username)
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
+* **Gaetano Improta** - [GitHub](https://github.com/tuo-username) | [LinkedIn](https://linkedin.com/in/gaetano-improta)
+* **Salvatore Caputo** - [GitHub](https://github.com/suo-username) | [LinkedIn](https://www.linkedin.com/in/salvatore-caputo-1ab877258/)
