@@ -1,0 +1,3 @@
+This repository provides an exact solver for the Traveling Salesperson Problem (TSP) using the Branch and Cut algorithmic framework. The implementation combines the Branch and Bound method with the Cutting Plane algorithm to find the globally optimal Hamiltonian cycle for a given set of nodes.
+
+The solver works by iteratively solving Linear Programming (LP) relaxations and dynamically adding Subtour Elimination Constraints (SECs) as cuts whenever a disconnected tour is detected. This approach ensures mathematical optimality while significantly reducing the number of constraints loaded into the initial model. The project is designed to demonstrate the efficiency of hybrid optimization techniques in handling NP-hard combinatorial challenges.
