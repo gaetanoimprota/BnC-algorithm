@@ -8,5 +8,5 @@ For a detailed explanation of the mathematical model, please refer to the techni
 * [Download Technical Report (PDF)](docs/TSP_problem.pdf)
 
 ## Contributors
-* **Gaetano Improta** - [GitHub](https://github.com/tuo-username) | [LinkedIn](https://linkedin.com/in/gaetano-improta)
+* **Gaetano Improta** - [GitHub](https://github.com/gaetanoimprota) | [LinkedIn](https://linkedin.com/in/gaetano-improta)
 * **Salvatore Caputo** - [GitHub](https://github.com/suo-username) | [LinkedIn](https://www.linkedin.com/in/salvatore-caputo-1ab877258/)
