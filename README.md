@@ -6,3 +6,10 @@ The solver works by iteratively solving Linear Programming (LP) relaxations and 
 ## Documentation
 For a detailed explanation of the mathematical model, please refer to the technical report:
 * [Download Technical Report (PDF)](docs/TSP_problem.pdf)
+
+## Contributors
+* **Gaetano Improta** [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuo-username)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gaetano-improta]
+  
+* **Salvatore Caputo** [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuo-username)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
